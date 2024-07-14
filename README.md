@@ -2,7 +2,7 @@
 # Financial_Analysis-Dashboard
 
 ### Dashboard 
-![F Dashbod](https://github.com/user-attachments/assets/25383080-d22b-4f2b-a800-e50142e03f4b)
+![Full](https://github.com/user-attachments/assets/79923886-6f77-4963-9afa-8505bc0cefbb)
 
 ## Problem Statement
 
