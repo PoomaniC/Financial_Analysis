@@ -27,7 +27,7 @@ Key Findings:
 
 - Step 8 : New measure was created to find Total number of transactions. Using Card visualizations, o was created Total number of transactions.
 
-![Total cu](https://github.com/user-attachments/assets/cae3d1dc-c51e-436c-ac79-49370f2adfbd)
+  ![Total cu](https://github.com/user-attachments/assets/cae3d1dc-c51e-436c-ac79-49370f2adfbd)
 
 - Step 9 : Visual filters (Slicers) were added for four fields named "products", "Gender" & "Years".
 
