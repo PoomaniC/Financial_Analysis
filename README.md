@@ -1,7 +1,8 @@
 
 # Financial_Analysis-Dashboard
 
-### Dashboard Link : ![F Dashbod](https://github.com/user-attachments/assets/25383080-d22b-4f2b-a800-e50142e03f4b)
+### Dashboard 
+![F Dashbod](https://github.com/user-attachments/assets/25383080-d22b-4f2b-a800-e50142e03f4b)
 
 ## Problem Statement
 
