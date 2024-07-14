@@ -21,9 +21,9 @@ Key Findings:
 - Step 6 : New measure was created for Total Revenue and Average Revenue. 
 - Step 7: Two card visuals were added. One representing Total Revenue and other representing Average Revenue.
  
- ![Total Revenue](https://github.com/user-attachments/assets/2ed36df8-ad7c-4725-b333-71e6a90cb05c)
+  ![Total Revenue](https://github.com/user-attachments/assets/2ed36df8-ad7c-4725-b333-71e6a90cb05c)
 
-![AVg rev](https://github.com/user-attachments/assets/8c5657fc-c312-4897-9920-4da241fbbbc5)
+  ![AVg rev](https://github.com/user-attachments/assets/8c5657fc-c312-4897-9920-4da241fbbbc5)
 
 - Step 8 : New measure was created to find Total number of transactions. Using Card visualizations, o was created Total number of transactions.
 
