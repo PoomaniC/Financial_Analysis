@@ -20,8 +20,8 @@ Key Findings:
 - Step 5 : In the report view, under the Format page, Canvas background was selected.
 - Step 6 : New measure was created for Total Revenue and Average Revenue. 
 - Step 7: Two card visuals were added. One representing Total Revenue and other representing Average Revenue.
- 
-  ![Total Revenue](https://github.com/user-attachments/assets/2ed36df8-ad7c-4725-b333-71e6a90cb05c)
+
+  ![Total Revenue](https://github.com/user-attachments/assets/26042471-f403-431d-837c-f3b8d99d2f7e)
 
   ![AVg rev](https://github.com/user-attachments/assets/8c5657fc-c312-4897-9920-4da241fbbbc5)
 
