@@ -93,5 +93,5 @@ Key Findings:
   
       Jansen B.: 13 transactions, 13M revenue
 
-Conclusion:
+**Conclusion**:
 The Financial_Analysis-Dashboard offers valuable insights into the financial performance of the business, highlighting key areas of strength and opportunities for improvement. By focusing on high-performing regions, optimizing the product mix, enhancing sales rep performance, and adjusting for seasonal trends, the business can enhance its overall financial health and achieve sustained growth.
