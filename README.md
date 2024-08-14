@@ -29,7 +29,7 @@ Key Findings:
 
   ![Total cu](https://github.com/user-attachments/assets/cae3d1dc-c51e-436c-ac79-49370f2adfbd)
 
-- Step 9 : Visual filters (Slicers) were added for four fields named "products", "Gender" & "Years".
+- Step 9 : Visual filters (Slicers) were added for these fields named "products", "Gender" & "Years".
 
 - Step 10 : Pie chart was also added to the report design area representing the total revenue by Regions in perecntage. 
     U.S.A.: 78.65M (61.73%)
