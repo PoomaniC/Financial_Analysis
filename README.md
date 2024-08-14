@@ -34,37 +34,53 @@ Key Findings:
 - Step 10 : Pie chart was also added to the report design area representing the total revenue by Regions in perecntage. 
 
     U.S.A.: 78.65M (61.73%)
+  
     U.K.: 32.14M (25.2%)
+  
     Asia: 16.62M (13.06%)
 
 - Step 11: Revenue Distribution - I was created total revenue by stores. Using Line Chart visual to diplay the revenue.
 
-    Store 1: 61.95M
-    Store 2: 27.81M
-    Store 3: 19.87M
-    Store 4: 17.78M
+   Store 1: 61.95M
+  
+   Store 2: 27.81M
+  
+   Store 3: 19.87M
+  
+   Store 4: 17.78M
 
 - Step 12 : Using Bar chart visual to display total and average revenue by Products.
-    Smartphones: Smartphones are the top revenue-generating product.
+
+  Smartphones: Smartphones are the top revenue-generating product.
   
     The highest total revenue for Smartphones Revenue is 20.8M.
+  
     The highest revenue for Accessories is 5.6M.
+  
     The highest for Laptops is 3.6M, and for Tablets, it’s 3.3M.
 
 - Step 13 : Using Clustered bar chart for Total Revenue by Products and Rank.
 
   Top Products by Revenue:
+  
       Smartphones: 39M
+  
       Tablets: 17M
+  
       Laptops: 12M
 
 - Step 14 : I was created Total revenue by Quater using stacted area chart.
+  
     Q1: Highest revenue
+  
     Q4: Lowest revenue
         
 - Step 15 : This Clustered bar chart that represents the total revenue segmented by region and rank for different stores
+  
     The total revenue for Asia is the highest at 40M with the major contribution from Rank 1 at 21M.
+  
     The total revenue for the U.K. is 14M, with Rank 1 contributing the highest at 8M.
+  
     The total revenue for the U.S.A. is 8M, with Rank 1 contributing 6M.
 
 - Step 16 : This table Chart represents the Sales Representatives Performance.
@@ -72,7 +88,9 @@ Key Findings:
     Top performers:
   
       Andrew T.: 20 transactions, 20M revenue
+  
       Louis N.: 19 transactions, 19M revenue
+  
       Jansen B.: 13 transactions, 13M revenue
 
 Conclusion:
