@@ -38,8 +38,11 @@ Key Findings:
 
 - Step 11: Revenue Distribution - I was created total revenue by stores. Using Line Chart visual to diplay the revenue.
     Store 1: 61.95M
+  
     Store 2: 27.81M
+  
     Store 3: 19.87M
+  
     Store 4: 17.78M
 
 - Step 12 : Using Bar chart visual to display total and average revenue by Products
