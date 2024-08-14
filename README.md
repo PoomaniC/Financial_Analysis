@@ -32,27 +32,28 @@ Key Findings:
 - Step 9 : Visual filters (Slicers) were added for these fields named "products", "Gender" & "Years".
 
 - Step 10 : Pie chart was also added to the report design area representing the total revenue by Regions in perecntage. 
+
     U.S.A.: 78.65M (61.73%)
     U.K.: 32.14M (25.2%)
     Asia: 16.62M (13.06%)
 
 - Step 11: Revenue Distribution - I was created total revenue by stores. Using Line Chart visual to diplay the revenue.
+
     Store 1: 61.95M
-  
     Store 2: 27.81M
-  
     Store 3: 19.87M
-  
     Store 4: 17.78M
 
-- Step 12 : Using Bar chart visual to display total and average revenue by Products
+- Step 12 : Using Bar chart visual to display total and average revenue by Products.
     Smartphones: Smartphones are the top revenue-generating product.
+  
     The highest total revenue for Smartphones Revenue is 20.8M.
     The highest revenue for Accessories is 5.6M.
     The highest for Laptops is 3.6M, and for Tablets, it’s 3.3M.
 
 - Step 13 : Using Clustered bar chart for Total Revenue by Products and Rank.
-    Top Products by Revenue:
+
+  Top Products by Revenue:
       Smartphones: 39M
       Tablets: 17M
       Laptops: 12M
@@ -69,6 +70,7 @@ Key Findings:
 - Step 16 : This table Chart represents the Sales Representatives Performance.
 
     Top performers:
+  
       Andrew T.: 20 transactions, 20M revenue
       Louis N.: 19 transactions, 19M revenue
       Jansen B.: 13 transactions, 13M revenue
